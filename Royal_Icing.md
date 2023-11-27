@@ -2,6 +2,8 @@
 
 
 
+This is a short summary of icing consistencies:
+
 |No. |Type |Description |Use|
 |----|----|--------------|---------------|
 |1 |Stiff |The consistency you get right out of the mixer |Making flowers or similar objects and decorations that need to perfectly hold their shape|
