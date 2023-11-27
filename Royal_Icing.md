@@ -43,3 +43,4 @@ On the picture below you can see the examples of mentioned icing consistencies:
 
 ![Image](consistencies.jpg "This is how it looks like, more or less")
 
+.
