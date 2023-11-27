@@ -1,4 +1,4 @@
-# This is a very short guide to Royal Icing.<!-- omit in toc -->
+# This is a very short (and still uncompleted) guide to Royal Icing.<!-- omit in toc -->
 ## What is Royal Icing?
 
 Royal Icing ("*lukier królewski*" in Polish) is, simply speaking, a mixture of powdered sugar and raw egg whites. It hardens when cooled, making it a great choice for decorated cookies and gingerbread houses.   
@@ -16,9 +16,8 @@ Liguid egg whites are avaliable on [Allegro](https://allegro.pl/), in stores for
     
       - >Why not usual whites directly from an egg? **In order to avoid Salmonella infection**. Liquid egg whites are pasteurised, so there's no risk involved. They are easier to work with - packed in a convinient bottle, so there is **no sloppy separating egg yolks from whites**. What's more, you take only as much as you need - you can freeze the rest for later use.
 
-2. Prepare a large bowl and hand mixer - unfortunately, I don't have a KitchenAid or similar food processor, but if you are a happy owner of that kind of appliance, feel free to use it.  
+2. Prepare a large bowl and a hand mixer - unfortunately, I don't have a KitchenAid or similar food processor, but if you are a happy owner of that kind of appliance, feel free to use it.  
 Remember: there is no strict formula for preparing the Royal Icing like `X + Y = Z` and you have to do a whole thing "by eye" (for Polish-speaking readers: *wiem, "na oko to chłop w szpitalu umarł"* 🤪🤪)
-
 
 This is a short summary of icing consistencies:
 
