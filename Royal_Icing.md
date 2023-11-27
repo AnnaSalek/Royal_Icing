@@ -1,4 +1,4 @@
-# This is a very short (and still uncompleted) guide to Royal Icing.<!-- omit in toc -->
+# A very short (and still uncompleted) guide to Royal Icing.<!-- omit in toc -->
 
 - [What is Royal Icing?](#what-is-royal-icing)
 - [How to prepare Royal Icing?](#how-to-prepare-royal-icing)
