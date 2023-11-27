@@ -1,11 +1,18 @@
 # This is a very short (and still uncompleted) guide to Royal Icing.<!-- omit in toc -->
-## What is Royal Icing?
 
-Royal Icing ("*lukier królewski*" in Polish) is, simply speaking, a mixture of powdered sugar and raw egg whites. It hardens when cooled, making it a great choice for decorated cookies and gingerbread houses.   
+- [What is Royal Icing?](#what-is-royal-icing)
+- [How to prepare Royal Icing?](#how-to-prepare-royal-icing)
+- [Short summary of Royal Icing consistencies:](#short-summary-of-royal-icing-consistencies)
+
+
+
+## What is Royal Icing?
+  
+Royal Icing ("*lukier królewski*" in Polish) is, simply speaking, a mixture of powdered sugar and raw egg whites. It hardens when cooled, making it a great choice for decorated cookies and gingerbread houses.     
 
 >**Do not confuse it with plain frosting** you can see on Polish doughnuts ("*pączki*") or cakes in onfectioneries or bakeries. They are similar, but not the same, and have different properties.
 
-![Image](RIvsFrost.jpg)
+![Image](RIvsFrost.jpg "To z lewej to moje :D")
 
 ## How to prepare Royal Icing?
 
@@ -19,10 +26,13 @@ Liguid egg whites are avaliable on [Allegro](https://allegro.pl/), in stores for
 2. Prepare a large bowl and a hand mixer - unfortunately, I don't have a KitchenAid or similar food processor, but if you are a happy owner of that kind of appliance, feel free to use it.  
 Remember: there is no strict formula for preparing the Royal Icing like `X + Y = Z` and you have to do a whole thing "by eye" (for Polish-speaking readers: *wiem, "na oko to chłop w szpitalu umarł"* 🤪🤪)
 
-This is a short summary of icing consistencies:
+3. To be continued
+  
+  
+## Short summary of Royal Icing consistencies:
 
 |No. |Type |Description |Use|
-|----|----|--------------|---------------|
+|:----:|:----:|--------------|---------------|
 |1 |Stiff |The consistency you get right out of the mixer |Making flowers or similar objects and decorations that need to perfectly hold their shape|
 |2 |Piping |Resembles toothpaste being squeezed from a tube |Outlining, lettering, detailing, line work|
 |3 |Medium |More liquid than piping consistency, but still holds its shape |Outlining and flooding with one consistency, creating puffy areas|
