@@ -38,8 +38,7 @@ Remember: there is no strict formula for preparing the Royal Icing like `X + Y =
 |3 |Medium |More liquid than piping consistency, but still holds its shape |Outlining and flooding with one consistency, creating puffy areas|
 |4 |Flood |As the name suggests, it floods - like honey, for example |Flooding, wet-on-wet technique|
   
-The examples of icing concistencies you can see on the picuture below:
-
+On the picture below you can see the examples of mentioned icing consistencies:  
 
 ![This is how it looks like](consistencies.jpg)
 
