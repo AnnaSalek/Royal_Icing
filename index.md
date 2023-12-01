@@ -27,7 +27,7 @@ Liguid egg whites are avaliable on [Allegro](https://allegro.pl/), in stores for
 2. Prepare a large bowl and a hand mixer - unfortunately, I don't have a KitchenAid or similar food processor, but if you are a happy owner of that kind of appliance, feel free to use it.  
 Remember: there is no strict formula for preparing the Royal Icing like $X + Y = Z$ and you have to use ingredients by feel (for Polish-speaking readers: *wiem, "na oko to chłop w szpitalu umarł"* 🤪🤪)
 
-3. To be continued...
+1. To be continued...
   
   
 ## Short summary of Royal Icing consistencies:
