@@ -21,8 +21,10 @@ It's actually uncomplicated:
 1. If you are beginner, don't search too much on the Internet as it will make you confused. Leave it for later, when you get more experience. Purchase *2 or 3 packs of powdered sugar, 1 lemon** and *bottle of liquid egg whites**.  
 Liguid egg whites are avaliable on [Allegro](https://allegro.pl/), in stores for confectioners like [The cakes](https://thecakes.pl/pl) or [Torty Torty](https://tortytorty.pl) or stores with dietary supplements and nutrients for active people like [KFD](https://sklep.kfd.pl), [SFD](https://sklep.sfd.pl), [Świat supli](https://swiatsupli.pl) etc. Personally, I use and recommend liquid whites from [Farma Białka](https://farmabialka.pl).
 
+
         Why not usual whites directly from an egg? **In order to avoid Salmonella infection**. Liquid egg whites are pasteurised, so there's no risk involved. They are easier to work with - packed in a convinient bottle, so there is **no sloppy separating egg yolks from whites**. What's more, you take only as much as you need - you can freeze the rest for later use.
-  
+
+
 2.  Prepare a large bowl and a hand mixer - unfortunately, I don't have a KitchenAid or similar food processor, but if you are a happy owner of that kind of appliance, feel free to use it.  
 Remember: there is no strict formula for preparing the Royal Icing like `X + Y = Z` and you have to use ingredients by feel (for Polish-speaking readers: *wiem, "na oko to chłop w szpitalu umarł"* 🤪🤪)
 
