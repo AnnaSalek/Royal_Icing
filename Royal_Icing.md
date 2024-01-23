@@ -10,7 +10,7 @@
   
 Royal Icing ("*lukier królewski*" in Polish) is, simply speaking, a mixture of powdered sugar and raw egg whites. It hardens when cooled, making it a great choice for decorated cookies and gingerbread houses.     
 
->**Do not confuse it with plain frosting** you can see on Polish doughnuts ("*pączki*") or cakes in confectioneries or bakeries. They are similar, but not the same, and have different properties.
+>**Do not confuse it with frosting ** you can see on Polish doughnuts ("*pączki*") or with **buttercream** on cupcakes avaliable in confectioneries or bakeries. They are similar, but not the same, and have different properties.
 
 ![Image](RIvsFrost.jpg "These butterflies on the left are my creations")
 
